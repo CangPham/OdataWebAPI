@@ -1,0 +1,10 @@
+D:\Demo\ODataWebAPI\ODataWebAPI\ODataWebAPI.Data\bin\Debug\ODataWebAPI.Data.dll.config
+D:\Demo\ODataWebAPI\ODataWebAPI\ODataWebAPI.Data\bin\Debug\ODataWebAPI.Data.dll
+D:\Demo\ODataWebAPI\ODataWebAPI\ODataWebAPI.Data\bin\Debug\ODataWebAPI.Data.pdb
+D:\Demo\ODataWebAPI\ODataWebAPI\ODataWebAPI.Data\bin\Debug\EntityFramework.dll
+D:\Demo\ODataWebAPI\ODataWebAPI\ODataWebAPI.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Demo\ODataWebAPI\ODataWebAPI\ODataWebAPI.Data\bin\Debug\MockData.dll
+D:\Demo\ODataWebAPI\ODataWebAPI\ODataWebAPI.Data\bin\Debug\EntityFramework.xml
+D:\Demo\ODataWebAPI\ODataWebAPI\ODataWebAPI.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Demo\ODataWebAPI\ODataWebAPI\ODataWebAPI.Data\obj\Debug\ODataWebAPI.Data.dll
+D:\Demo\ODataWebAPI\ODataWebAPI\ODataWebAPI.Data\obj\Debug\ODataWebAPI.Data.pdb
